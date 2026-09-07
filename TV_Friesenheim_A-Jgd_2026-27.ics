@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//TV Friesenheim A-Jgd 2026-27//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-1@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20261003T181000
+DTEND;TZID=Europe/Berlin:20261003T201000
+SUMMARY:TV Friesenheim – SG Waldk./Denzlingen 2
+LOCATION:Sporthalle Friesenheim
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-2@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20261010T180000
+DTEND;TZID=Europe/Berlin:20261010T200000
+SUMMARY:TV Friesenheim – SG Bötzingen/March
+LOCATION:Sporthalle Friesenheim
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-3@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20261108T163000
+DTEND;TZID=Europe/Berlin:20261108T183000
+SUMMARY:TV Todtnau – TV Friesenheim
+LOCATION:Silberberghalle - Meinrad-Thoma-Str. 18\, 79674 Todtnau
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-4@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20261114T130000
+DTEND;TZID=Europe/Berlin:20261114T150000
+SUMMARY:SG Freiburg – TV Friesenheim
+LOCATION:Wentzingerhalle - Falkenbergerstr. 21\, 79110 Freiburg
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-5@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20261121T153000
+DTEND;TZID=Europe/Berlin:20261121T173000
+SUMMARY:TV Friesenheim – SG Freiburg
+LOCATION:Schwarzwaldhalle Unterharmersbach
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-6@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20261212T140000
+DTEND;TZID=Europe/Berlin:20261212T160000
+SUMMARY:SG Bötzingen/March – TV Friesenheim
+LOCATION:Sporthalle Buchheim - Sportplatzstraße\, 79232 March
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-7@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20261219T180000
+DTEND;TZID=Europe/Berlin:20261219T200000
+SUMMARY:TV Friesenheim – TV Todtnau
+LOCATION:Sporthalle Friesenheim
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-8@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20270123T180000
+DTEND;TZID=Europe/Berlin:20270123T200000
+SUMMARY:SG Waldk./Denzlingen 2 – TV Friesenheim
+LOCATION:Kastelberghalle - Freiburgerstraße\, 79183 Waldkirch
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-9@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20270213T173000
+DTEND;TZID=Europe/Berlin:20270213T193000
+SUMMARY:TV Friesenheim – TV Todtnau
+LOCATION:Schwarzwaldhalle Unterharmersbach
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-10@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20270221T180000
+DTEND;TZID=Europe/Berlin:20270221T200000
+SUMMARY:SG Waldk./Denzlingen 2 – TV Friesenheim
+LOCATION:Kastelberghalle - Freiburgerstraße\, 79183 Waldkirch
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-11@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20270227T181000
+DTEND;TZID=Europe/Berlin:20270227T201000
+SUMMARY:TV Friesenheim – SG Bötzingen/March
+LOCATION:Sporthalle Friesenheim
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tvfriesenheim-a-jgd-2026-27-12@chatgpt
+DTSTAMP:20260906T160100Z
+DTSTART;TZID=Europe/Berlin:20270320T143000
+DTEND;TZID=Europe/Berlin:20270320T163000
+SUMMARY:SG Freiburg – TV Friesenheim
+LOCATION:Wentzingerhalle - Falkenbergerstr. 21\, 79110 Freiburg
+DESCRIPTION:Spielplan A-Jgd. TVF & FVU Saison 2026/27 – Stand 03.09.2026
+END:VEVENT
+END:VCALENDAR
